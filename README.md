@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @rcinaus
-- 👀 I’m interested in crypto mining & dApp possibilities
-- 🌱 I’m currently learning how to write a book
-- 💞️ I’m looking to collaborate on useful applications of LoRaWAN
 
 
 <!---
